@@ -1,7 +1,7 @@
 ### What is your issue of interest (provide sufficient background information)?
 #### U.S. Military and Impact 
 #### Of all the branches in the U.S. Military, which is the best to join?
-#### Similarites/differences across the branches (Army, Navy, Air Force, Marines)
+#### Similarities/differences across the branches (Army, Navy, Air Force, Marines)
 #### Histories/Reputation
 #### Current news/scandals (include the most recent scandal of abuse in BUD/S (Navy SEAL selection))
 ### -----------------------------------------------------------------------------------------------
