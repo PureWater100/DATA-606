@@ -6,9 +6,8 @@
 #### Current news/scandals (include the most recent scandal of abuse in BUD/S (Navy SEAL selection))
 ### -----------------------------------------------------------------------------------------------
 ### Why is this issue important to you and/or to others?
-#### The military is a critical component of the U.S., it protects the American people and promotes the state on the global stage. 
 #### Very important to consider for people who want to join the military today. 
-#### Being in the military is about protecting people and serving a deeper purpose than yourself.  
+#### Being in the military is about protecting people and serving a purpose deeper than yourself.  
 ### -----------------------------------------------------------------------------------------------
 ### What questions do you have in mind and would like to answer?
 #### How does each military operate and work in relation to each other in war zones (abroad) vs day to day (homeland)?
