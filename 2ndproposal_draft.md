@@ -1,6 +1,6 @@
 ### What is your issue of interest (provide sufficient background information)?
 #### Crime in Oahu, Hawaii. 
-### -------------------------------------------------------------------------------------------
+###-------------------------------------------------------------------------------------------
 ### Why is this issue important to you and/or to others?
 #### Crime and criminal activity is a fascinating world that lies beneath the surface of daily life. I would like to shed some light on the shadow side of life. 
 ### -------------------------------------------------------------------------------------------
