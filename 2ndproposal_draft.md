@@ -36,4 +36,4 @@
 ************************************************************************************************
 ### What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
 #### To better understand the nature, frequency, and timing of specific crimes in Oahu, Hawaii.
-#### Goal is to predict the next crime and in which specific location based on previous data.
+#### Goal is to predict into the next month, the next crimes and in which specific locations based on previous data.
