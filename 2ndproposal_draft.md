@@ -15,11 +15,10 @@
 #### HPD Crime Incidents
 #### Maintained by the City and County of Honolulu
 #### Retrieved from: https://data.honolulu.gov/dataset/HPD-Crime-Incidents/f5dd-pqys
-#### This dataset was last updated 9/17/22
-#### Shape: 23k rows, 10 columns 
+#### This dataset was last updated 10/7/22
 #### Dataset is connected to CrimeMapping.com, which visually plots out the crime points on a map
-#### CrimeMapping is literally a dashboard, which takes care of EDA
-#### Thus, my focus will be on building a predictive model
+#### CrimeMapping is a dashboard hosted online. 
+#### The goal is to project into the next month, if possible
 ************************************************************************************************
 ### What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
 #### Type of crime 
@@ -30,11 +29,11 @@
 #### Number of occurances and frequency over time per crime type
 ************************************************************************************************
 ### What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
-#### No NLP
-#### possibly clustering
+#### Time series analysis
 ************************************************************************************************
 ### How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?
-#### Will do a train split of the data, possibly 80%/20% split
+#### Use date to project for future months.
 ************************************************************************************************
 ### What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
 #### To better understand the nature, frequency, and timing of specific crimes in Oahu, Hawaii.
+#### Goal is to predict the next crime and in which specific location based on previous data.
